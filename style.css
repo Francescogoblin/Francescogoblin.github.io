@@ -37,7 +37,8 @@ p  { color: black; }
       text-decoration: none;
       font-weight: bold;
       transition: color 0.3s;
-      border: 2px solid white;  /* BORDO ATTORNO AL LINK */
+      border: 2px;   /* BORDO ATTORNO AL LINK */
+      border-color: #333;
       border-radius: 8px;       /* ANGOLI ARROTONDATI */
     }
 
