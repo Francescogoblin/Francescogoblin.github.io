@@ -13,8 +13,10 @@ p  { color: black; }
 
 
  nav {
-      background-color: #FA9585;  /* COLORE SFONDO DEL MENU */
+      background-color: #FFFEEF;  /* COLORE SFONDO DEL MENU */
       padding: 10px 0;            /* SAZIO SOPRA E SOTTO IL MENU */
+      border: 3px black;          /* BORDO NERO */
+      border-radius: 10px;        /* BORDI ARROTONDATI */
     }
 
     nav ul {
@@ -34,6 +36,8 @@ p  { color: black; }
       text-decoration: none;
       font-weight: bold;
       transition: color 0.3s;
+      border: 2px solid white;  /* BORDO ATTORNO AL LINK */
+      border-radius: 8px;       /* ANGOLI ARROTONDATI */
     }
 
     nav ul li a:hover {
