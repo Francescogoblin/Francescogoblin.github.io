@@ -15,7 +15,8 @@ p  { color: black; }
  nav {
       background-color: #FFFEEF;  /* COLORE SFONDO DEL MENU */
       padding: 10px 0;            /* SAZIO SOPRA E SOTTO IL MENU */
-      border: 3px black;          /* BORDO NERO */
+      border: 3px;         
+      border-color: #333;         /* BORDO NERO */
       border-radius: 10px;        /* BORDI ARROTONDATI */
     }
 
