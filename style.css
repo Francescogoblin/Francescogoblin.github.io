@@ -14,7 +14,7 @@ p  { color: black; }
 
  nav {
       background-color: #FA9585;  /* COLORE SFONDO DEL MENU */
-      padding: 20px 0;            /* SAZIO SOPRA E SOTTO IL MENU */
+      padding: 100px 0;            /* SAZIO SOPRA E SOTTO IL MENU */
     }
 
     nav ul {
