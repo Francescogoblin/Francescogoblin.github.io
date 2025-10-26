@@ -1,6 +1,17 @@
-h1 {
-  margin: 0 0 5px 0; 
+body {
+  font-family: sans-serif;
+  background: #FFB777;
+  text-align: center;
+  padding: 5px;
 }
+
+h1 { color: black;
+    margin: 0 0 5px 0; 
+    font-weight: bold;
+    font: verdana;
+   }
+p  { color: black; }
+
 
  nav {
       background-color: #FA9585;  /* COLORE SFONDO DEL MENU */
