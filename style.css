@@ -1,6 +1,6 @@
 body {
-  font-family: sans-serif;
-  background: #FFB777;
+  font-family: verdana;
+  background: #FFFEEF;
   text-align: center;
   padding: 5px;
 }
@@ -8,7 +8,6 @@ body {
 h1 { color: black;
     margin: 0 0 5px 0; 
     font-weight: bold;
-    font: verdana;
    }
 p  { color: black; }
 
