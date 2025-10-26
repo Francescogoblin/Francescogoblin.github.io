@@ -3,12 +3,12 @@ h1 {
 }
 
  nav {
-      background-color: #333;
-      padding: 20px 0;
+      background-color: #FA9585;  /* COLORE SFONDO DEL MENU */
+      padding: 20px 0;            /* SAZIO SOPRA E SOTTO IL MENU */
     }
 
     nav ul {
-      list-style: none;
+      list-style: none;          /* ROBA DENTRO IL MENU */
       margin: 0;
       padding: 0;
       display: flex;
@@ -16,7 +16,7 @@ h1 {
     }
 
     nav ul li {
-      margin: 0 20px;
+      margin: 0 40px;        /* SPAZIO TRA UN ELEMENTO DEL MENU E L'ALTRO */
     }
 
     nav ul li a {
