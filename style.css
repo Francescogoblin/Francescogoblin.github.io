@@ -30,7 +30,7 @@ p  { color: black; }
     }
 
     nav ul li a {
-      color: white;
+      color: #333 ;
       text-decoration: none;
       font-weight: bold;
       transition: color 0.3s;
