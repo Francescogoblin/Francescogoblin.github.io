@@ -37,7 +37,7 @@ p  { color: black; }
     }
 
     nav ul li a:hover {
-      color: #red;
+      color: red;
     }
 
 footer {
